@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[clc:home|Door43 (clc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-clc|d43-clc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-clc/archive/master.zip|d43-clc.zip]]
+
+**Recent Changes**
+{{changes>ns = clc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/clc|Ethnologue data]]
+
